@@ -786,8 +786,6 @@ export default function Home() {
               </span>
             </div>
             <div className="flex items-center gap-6 text-xs text-zinc-600">
-              <span>Guardian on LC • CF Master</span>
-              <span>•</span>
               <span>© 2026 Leetify</span>
             </div>
           </div>
