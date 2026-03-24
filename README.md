@@ -166,6 +166,7 @@ After that, every push to `main` triggers an automatic deployment.
 
 ## License
 
-No license file is currently defined. Add one if you want open-source usage terms.
+MIT LICENCE
+
 
 
